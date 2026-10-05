@@ -1,0 +1,9 @@
+x = 3;
+y = 2 * PI * x;
+z = x * sin (y + PI/6);
+workspace()
+import("biblioteca/lib.so")
+x= factorial(3);
+y = (x + factorial(4)) * fibonacci(7 - 2);
+clear("z")
+workspace()
